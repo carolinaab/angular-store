@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyAcWQjKdNXTwut1OOq_zw3TMObxAJXeLIY',
+    authDomain: 'platzia.firebaseapp.com',
+    databaseURL: 'https://platzia.firebaseio.com',
+    projectId: 'platzia',
+    storageBucket: 'platzia.appspot.com',
+    messagingSenderId: '120902602376',
+    appId: '1:120902602376:web:7c3db0050fe17bac5f593d'
+  }
 };
 
 /*
