@@ -1,0 +1,10 @@
+Pipes: funcionan como una tuberia donde entran datos de un tipo y los entregas a otro pipe con otro valos 
+directivas: 
+ng g c cart --module modules/app para el error more that...
+para hacer mi propio pipe ng g p <namePipe>
+
+directivas modifican el dom de un elemento en especifico 
+ng g d highlight
+
+Modulos y Rutas 
+para abstraer y dividir mejor por dominio la aplicacion 
